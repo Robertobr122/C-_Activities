@@ -28,6 +28,6 @@ class Exemplo3
     
     Console.WriteLine("MEDIA = {0:f1}", media);
 
-
+                      
     }
 }
